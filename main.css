@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cont_in{
+    width: 100%;
+    padding: 225px;
+    background: url(img/thumbnail_350x196.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.filter{
+    background-color:rgba(0, 0, 0, 0.532);
+    width: 500px;
+    padding: 50px;
+}
+.filter>p{
+    color: white;
+    font-size: 18px;
+}
+h1{
+    color: white;
+    margin-bottom: 15px;
+}
+.p{
+    margin-bottom: 15px;
+}
+button{
+    color: white;
+    font-size: 15px;
+    background-color: blue;
+    border: none;
+    outline: none;
+    text-align: center;
+    padding: 10px 10px; 
+}
+ button > i{    
+    font-size: 15px;
+    color: white;
+
+}
